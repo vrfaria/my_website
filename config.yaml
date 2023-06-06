@@ -82,7 +82,7 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Descricao sobre mim
+        subtitle: Nice to meet you!
         title: About Me
         url: blogs/about_me
       - image: pic02.jpg

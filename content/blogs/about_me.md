@@ -11,14 +11,8 @@ slug: about_me
 title: About Me
 ---
 
-
-<style>
-  .profile-image {
-    width: 300px; /* Set the desired width */
-    height: auto; /* Maintain aspect ratio */
-  }
-</style>
-
 I am an LBS MBA2024 candidate, originally from Brazil. Management consultant background, data science enthusiast. In my free time, I love to cook, travel, and play board games.
 
-<img class="profile-image" src="aboutme.jpeg" alt="Profile Image">
+![Testing](static\img\blogsimage\pic10.jpg)
+
+It was a test
