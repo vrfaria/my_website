@@ -16,17 +16,17 @@ params:
     address:
       - city: London
         country: UK
-        street: Street
-        title: Address
+#        street: Street
+#        title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
       - email: vriosfaria.mba2024@london.edu
         title: Email
     enable: yes
-    phone:
-      - phone: (000) 000-0000 x1234
-        title: Phone
+#    phone:
+#      - phone: (000) 000-0000 x1234
+#        title: Phone
   custom_css: []
   custom_js: []
   description: Your description
@@ -82,9 +82,9 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: Descricao sobre mim
+        title: About Me
+        url: blogs/about_me
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
