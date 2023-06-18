@@ -84,7 +84,7 @@ params:
         subtitle: Nice to meet you!
         title: About Me
         url: blogs/about_me
-      - image: travel.jpg
+      - image: travel.jpeg
         subtitle: Meeting cultures and places
         title: Travelling
         url: blogs/travel
@@ -92,7 +92,7 @@ params:
         subtitle: Friends and Fun
         title: Board Games
         url: blogs/board_games
-      - image: Gradus.jpg
+      - image: Gradus.jpeg
         subtitle: Engineer + Consultant + Data
         title: My Career So Far
         url: blogs/career
@@ -107,6 +107,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "I hoe you enjoyed this blog"
+    subtitle: "I hope you enjoyed this blog"
     title: Até breve!
     url: blogs

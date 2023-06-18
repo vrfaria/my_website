@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
-image: pic10.jpg
+image: brass.jpg
 keywords: ""
 slug: board_games
 title: Board Games
@@ -21,7 +21,8 @@ When I started working, things started to change. I met a group of very likemind
 
 A couple years after the pandemic came, and the board game community got stronger in Brazil. People were locked at home, and they realized it was a very good way to entertain while socializing with other people living under the same shelter. For me, it was not different: my board game collection grew massively. Every other week, a new board game was delivered at home, and I couldn't wait to learn it and play it with my parents and sister (I spent 8 months with them while I was working fully remotely).
 
-![Testing](https://github.com/vrfaria/my_website/blob/main/static/img/blogs/bgs.jpg?raw=true)
+![Testing](https://github.com/vrfaria/my_website/blob/main/static/img/blogs/bgs.jpeg?raw=true)
+My reduced board game collection in London
 
 Here at LBS, I am engaged with the Board Game Club, of which I just became one of the co-presidents. It is amazing to get together with other students every other week, to meet them and have some fun while playing.
 

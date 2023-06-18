@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
-image: Toledo.jpg
+image: Toledo.jpeg
 keywords: ""
 slug: travel
 title: Travelling
@@ -20,5 +20,6 @@ In 2009, I had my first international experience. My parents, my sister and I we
 The first time I came to Europe it was 2014. I had been approved for a Double Degree program at École Centrale Paris and moved to Paris for a 2-year exchange program. From there, in that period, I explored 22 countries and over 80 cities, travelling both with friends and by myself. More recently, I have been for the first time to North America (Orlando, in February 2022) and to Africa, when I went to Morocco in February this year.
 
 ![Testing](https://github.com/vrfaria/my_website/blob/main/static/img/blogs/maps.jpg?raw=true)
+Places I've been in Europe
 
 I hope this is just the beginning of my journey. What fascinates me the most about travelling is being able to exchange experiences with people with different cultures and realities, growing a human being while learning to have empathy. The food, the language, the landmarks, they all are relevant pieces when traveling, and when put together, they allow me to have a deeper understanding of a culture. It is simply fascinating!
