@@ -13,6 +13,6 @@ title: About Me
 
 I am an LBS MBA2024 candidate, originally from Brazil. Management consultant background, data science enthusiast. In my free time, I love to cook, travel, and play board games.
 
-![Testing](static/img/blogsimage/pic10.jpg?raw=true)
+![Testing](https://github.com/vrfaria/my_website/blob/main/static/img/blogs/pic10.jpg?raw=true)
 
 It was a test
