@@ -96,11 +96,11 @@ params:
         subtitle: Engineer + Consultant + Data
         title: My Career So Far
         url: blogs/career
-      - image: pic05.jpg
+      - image: rstudio.png
         subtitle: The challenges of learning R
         title: Data Science for Business at LBS
         url: blogs/dsfb
-      - image: pic06.jpg
+      - image: datascience.avif
         subtitle: Why not both?
         title: R or Alteryx?
         url: blogs/r_alteryx
