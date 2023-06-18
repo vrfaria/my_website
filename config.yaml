@@ -85,25 +85,25 @@ params:
         title: About Me
         url: blogs/about_me
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: Meeting cultures and places
+        title: Travelling
+        url: blogs/travel
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: Friends and Fun
+        title: Board Games
+        url: blogs/board_games
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: Engineer + Consultant + Data
+        title: My Career So Far
+        url: blogs/career
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+        subtitle: The challenges of learning R
+        title: Data Science for Business at LBS
+        url: blogs/dsfb
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: Why not both?
+        title: R or Alteryx?
+        url: blogs/r_alteryx
   two:
     buttonText: Get Started
     enable: yes

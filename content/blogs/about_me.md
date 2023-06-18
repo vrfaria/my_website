@@ -21,4 +21,4 @@ Welcome on-board!
 
 ![Testing](https://github.com/vrfaria/my_website/blob/main/static/img/blogs/Lavras.jpg?raw=true)
 
-It was a test
+Lavras, Brazil
